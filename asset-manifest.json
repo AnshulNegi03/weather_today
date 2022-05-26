@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AnshulNegi03/weatherlive/static/css/main.c7a33ca0.css",
+    "main.js": "/AnshulNegi03/weatherlive/static/js/main.05c99186.js",
+    "static/media/wall.jpg": "/AnshulNegi03/weatherlive/static/media/wall.1ad4d9deb9dc00b1c33b.jpg",
+    "index.html": "/AnshulNegi03/weatherlive/index.html",
+    "main.c7a33ca0.css.map": "/AnshulNegi03/weatherlive/static/css/main.c7a33ca0.css.map",
+    "main.05c99186.js.map": "/AnshulNegi03/weatherlive/static/js/main.05c99186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a33ca0.css",
+    "static/js/main.05c99186.js"
+  ]
+}
