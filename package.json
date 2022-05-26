@@ -2,7 +2,7 @@
   "name": "weather_today",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AnshulNegi03/weatherlive",
+  "homepage": "https://github.com/AnshulNegi03/weather_today",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
